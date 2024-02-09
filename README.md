@@ -3,7 +3,7 @@
 <br>
 <h2> Colaboradores </h2><ul>
 <li>Miguel Omaña  <i>C.I: 30.111.323</i></li>
-<li>Yeriagny Chirinos<i>C.I:30.302.448</i></li>
+<li>Yeriagny Chirinos <i>C.I:30.302.448</i></li>
 </ul>
 <br>
 <h2>Introducción</h2>
